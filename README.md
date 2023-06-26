@@ -2,6 +2,8 @@
 
 Live Site: **https://aadhithr.github.io/Note-AI/**
 
+Note AI is a powerful note-taking app that combines advanced speech recognition, intelligent summarization, guided questions, quizzes, and seamless organization. With Note AI, you can effortlessly capture your thoughts using voice input, transform them into insightful summaries, explore deeper understanding through guided questions, reinforce knowledge with interactive quizzes, and stay organized with intuitive categorization. Experience the future of note-taking and unleash your productivity with Note AI.
+
 **Instructions:**
 
 Click the Start Recording button in the top left corner of the screen. Then proceed to talk. 
